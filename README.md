@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Cloud Native technology, especially Kubernetes, at @cybozu
 - 🌱 I’m currently learning Google Cloud Platform and React with TypeScript in my free time
+- 🚩 I'm fluent in Golang and Python3.
 - 💬 Ask me about Kubernetes and Machine Learning
 - ⚡ Fun fact: I love travelling. My wife and I went on a round-the-world trip for whole one year!!
 - 📫 How to reach me:
