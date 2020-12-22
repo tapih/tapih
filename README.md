@@ -1,4 +1,5 @@
-### Hi I'm Hiroshi Muraoka 👋
+<h1 align="center">Hi I'm Hiroshi Muraoka a.k.a [@tapih](https://github.com/tapih)👋</h1>
+<h3 align="center">I'm a Kubernetes engineer, a former Machine Learning engineer.</h3>
 
 <!--
 **tapih/tapih** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -7,7 +8,7 @@ Here are some ideas to get you started:
 
 -->
 
-- 🔭 I’m currently working on Kubernetes at [Cybozu, Inc.](https://cybozu.co.jp/)
+- 🔭 I’m currently working on Cloud Native technology, especially Kubernetes, at @cybozu
 - 🌱 I’m currently learning Google Cloud Platform and React with TypeScript in my free time
 - 💬 Ask me about Kubernetes and Machine Learning
 - 📫 How to reach me:
@@ -16,8 +17,7 @@ Here are some ideas to get you started:
   - 💣[Kaggle](https://www.kaggle.com/pseprop)
   - 🌼[Portfolio](https://portfolio.tapih.dev)
   - 📗[Blog](https://blog.tapih.dev)
-- 😄 Pronouns: He
-- ⚡ Fun fact: I went on a round-the-world trip for whole one year.
+- ⚡ Fun fact: I love travelling. My wife and I went on a round-the-world trip for whole one year!!
 
 
 ![tapih's github stats](https://github-readme-stats.vercel.app/api?username=tapih&show_icons=true&theme=tokyonight)
