@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 
 
 
-- 🔭 I’m currently working on Cloud Native technology, especially Kubernetes, at @cybozu
+- 🔭 I’m currently working on Cloud Native technology, especially forcusing on Kubernetes, at @cybozu
 - 🌱 I’m currently learning <b>English</b>, Google Cloud Platform and React with TypeScript in my free time
 - 🚩 I'm fluent in Golang and Python3.
 - 💬 Ask me about Kubernetes and Machine Learning
