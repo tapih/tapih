@@ -10,10 +10,10 @@ Here are some ideas to get you started:
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=tapih&show_icons=true&theme=tokyonight)
 
-- 🔭 I’m currently working on Cloud Native technology, especially forcusing on Kubernetes, at @cybozu
-- 🌱 I’m currently learning <b>English</b>, GCP, AWS and Flutter in my spare time
+- 🔭 I’m currently working on Cloud Native technology, especially forcusing on Kubernetes, at @cybozu.
+- 🌱 I’m currently learning <b>English</b>, GCP, AWS and Flutter in my spare time.
 - 🚩 I'm fluent in Go, Dart and Python3, OK in shell-script(+Makefile).
-- 💬 Ask me about Kubernetes and Machine Learning
+- 💬 Ask me about Kubernetes and Machine Learning.
 - ⚡ Fun fact: I love travelling. My wife and I went on a round-the-world trip for whole one year!!
 - 📫 How to reach me:
   - 🐦[Twitter](https://twitter.com/_tapih)
