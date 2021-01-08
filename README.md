@@ -13,8 +13,8 @@ Here are some ideas to get you started:
 
 
 - 🔭 I’m currently working on Cloud Native technology, especially forcusing on Kubernetes, at @cybozu
-- 🌱 I’m currently learning <b>English</b>, Google Cloud Platform and React with TypeScript in my free time
-- 🚩 I'm fluent in Golang and Python3.
+- 🌱 I’m currently learning <b>English</b>, GCP, AWS and Flutter in my spare time
+- 🚩 I'm fluent in Go, Dart and Python3, OK in shell-script(+Makefile).
 - 💬 Ask me about Kubernetes and Machine Learning
 - ⚡ Fun fact: I love travelling. My wife and I went on a round-the-world trip for whole one year!!
 - 📫 How to reach me:
