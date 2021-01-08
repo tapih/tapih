@@ -9,7 +9,6 @@ Here are some ideas to get you started:
 -->
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=tapih&show_icons=true&theme=tokyonight)
-![most used language]("https://github-readme-stats.vercel.app/api/top-langs/?username=tapih&hide=html,ruby")
 
 - 🔭 I’m currently working on Cloud Native technology, especially forcusing on Kubernetes, at @cybozu
 - 🌱 I’m currently learning <b>English</b>, GCP, AWS and Flutter in my spare time
