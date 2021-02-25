@@ -19,7 +19,7 @@ Here are some ideas to get you started:
   - 🐦[Twitter](https://twitter.com/_tapih)
   - 🔗[LinkedIn](https://jp.linkedin.com/in/hiroshi-muraoka-a4357770/en-us)
   - 💣[Kaggle](https://www.kaggle.com/pseprop)
-  - 🌼[Portfolio](https://portfolio.tapih.dev)
-  - 📗[Blog](https://blog.tapih.dev)
+  - 🌼[Portfolio(inactive)](https://portfolio.tapih.dev)
+  - 📗[Blog(inactive)](https://blog.tapih.dev)
 
 
