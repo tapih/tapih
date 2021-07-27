@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=tapih&show_icons=true&theme=tokyonight)
 
-- 🔭 I’m currently working on Cloud Native technology, forcusing on Kubernetes, at @cybozu.
+- 🔭 I’m currently working on Cloud Native technology, forcusing on Kubernetes, at @10xinc.
 - 🌱 I’m currently learning <b>English</b>, GCP and Flutter in my spare time.
 - 🚩 I'm fluent in Go and Python3, OK in Dart and shell-script(+Makefile).
 - 💬 Ask me about Kubernetes and Machine Learning.
