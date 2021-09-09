@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning <b>English</b>, GCP and Flutter in my spare time.
 - 💬 Ask me about Kubernetes and Machine Learning.
 - 🌏 Fun fact: I love travelling. My wife and I went on a round-the-world trip for whole one year!!
-- 🌼 Technical Stack
+- 🌼 Tech Stack
   - Go
   - Docker
   - Kubernetes
