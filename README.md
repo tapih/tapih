@@ -12,12 +12,21 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Cloud Native technology, forcusing on Kubernetes, at @10xinc.
 - 🌱 I’m currently learning <b>English</b>, GCP and Flutter in my spare time.
-- 🚩 I'm fluent in Go and Python3, OK in Dart and shell-script(+Makefile).
 - 💬 Ask me about Kubernetes and Machine Learning.
-- ⚡ Fun fact: I love travelling. My wife and I went on a round-the-world trip for whole one year!!
+- 🌏 Fun fact: I love travelling. My wife and I went on a round-the-world trip for whole one year!!
+- 🌼 Technical Stack
+  - Go
+  - Docker
+  - Kubernetes
+  - GCP
+  - terraform
+  - Python3(Machine Learning)
+  - Bash
+  - GNU make
+  - GitHub Actions
 - 📫 How to reach me:
-  - 🐦[Twitter](https://twitter.com/_tapih)
-  - 🔗[LinkedIn](https://jp.linkedin.com/in/hiroshi-muraoka-a4357770/en-us)
-  - 💣[Kaggle](https://www.kaggle.com/pseprop)
-  - 🌼[Portfolio(inactive)](https://portfolio.tapih.dev)
+  - [Twitter](https://twitter.com/_tapih)
+  - [LinkedIn](https://jp.linkedin.com/in/hiroshi-muraoka-a4357770/en-us)
+  - [Kaggle](https://www.kaggle.com/pseprop)
+  - [Portfolio(inactive)](https://portfolio.tapih.dev)
 
