@@ -24,6 +24,7 @@ Here are some ideas to get you started:
   - Bash
   - GNU make
   - GitHub Actions
+  - TypeScript
 - 📫 How to reach me:
   - [Twitter](https://twitter.com/_tapih)
   - [LinkedIn](https://jp.linkedin.com/in/hiroshi-muraoka-a4357770/en-us)
