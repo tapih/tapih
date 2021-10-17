@@ -27,6 +27,7 @@ Here are some ideas to get you started:
   - TypeScript
 - 📫 How to reach me:
   - [Twitter](https://twitter.com/_tapih)
+  - [Blog](https://blog.tapih.dev)
   - [LinkedIn](https://jp.linkedin.com/in/hiroshi-muraoka-a4357770/en-us)
   - [Kaggle](https://www.kaggle.com/pseprop)
   - [Portfolio(inactive)](https://portfolio.tapih.dev)
