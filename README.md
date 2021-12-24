@@ -11,7 +11,6 @@ Here are some ideas to get you started:
 ![github stats](https://github-readme-stats.vercel.app/api?username=tapih&show_icons=true&theme=tokyonight)
 
 - 🔭 I’m currently working on Cloud Native technology, forcusing on Kubernetes, at @10xinc.
-- 🌱 I’m currently learning <b>English</b>, GCP and Flutter in my spare time.
 - 💬 Ask me about Kubernetes and Machine Learning.
 - 🌏 Fun fact: I love travelling. My wife and I went on a round-the-world trip for whole one year!!
 - 🌼 Tech Stack
