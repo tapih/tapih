@@ -1,4 +1,4 @@
-# Hi 👋 I'm Hiroshi Muraoka a.k.a <a href=https://github.com/tapih>@tapih</a>
+# Hi 👋 I'm <a href=https://github.com/tapih>@tapih</a>
 ### I'm a Kubernetes engineer, a former Machine Learning engineer.
 
 <!--
