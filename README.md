@@ -1,5 +1,4 @@
 # Hi 👋 I'm <a href=https://github.com/tapih>@tapih</a>
-### I'm a Kubernetes engineer, a former Machine Learning engineer.
 
 <!--
 **tapih/tapih** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
