@@ -17,7 +17,7 @@ Here are some ideas to get you started:
   - Docker
   - Kubernetes
   - GCP
-  - terraform
+  - Terraform
   - Python3(Machine Learning)
   - Bash
   - GNU make
