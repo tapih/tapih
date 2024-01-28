@@ -10,8 +10,8 @@ Here are some ideas to get you started:
 ![github stats](https://github-readme-stats.vercel.app/api?username=tapih&show_icons=true&theme=tokyonight)
 
 - 🔭 I’m currently working on Cloud Native technology, forcusing on Kubernetes, at @10xinc.
-- 💬 Ask me about Kubernetes and Machine Learning.
-- 🌏 Fun fact: I love travelling. My wife and I went on a round-the-world trip for whole one year!!
+- 💬 Ask me about Kubernetes and GitHub Actions.
+- 🌏 Fun fact: I love travelling. My wife and I went on a round-the-world trip for over a year!!
 - 🌼 Tech Stack
   - Kubernetes
   - Docker
@@ -69,9 +69,10 @@ Here are some ideas to get you started:
 
 ### Site Reliability Engineering
 
-SRE のプラクティスに関する深い理解があり、スタートアップの現場で実践してきました。証券会社で財務分析をしていたバックグラウンドを活かして会社の現在/未来を適切に分析し、 SRE として次に何をすべきかを判断することが得意と自負しています。
+SRE のプラクティスに関する深い理解があり、スタートアップの現場で実践してきました。 SRE に関わることであれば一通りこなすことができます。
+また、証券会社で財務分析をしていたバックグラウンドから、会社の現在/未来を適切に分析して SRE として次に何をすべきかを判断することが得意と自負しています。
 
-以下のような実績がありますが、本質的に体系化しづらい領域です。スタートアップの現場での成功/失敗を活かしたディスカッション・壁打ち相手としてご活用いただければ幸いです。
+以下のような実績がありますが、本質的に体系化しづらい抽象度のトピックと捉えています。スタートアップの現場での成功/失敗を活かしたディスカッション・壁打ち相手くらいの温度感でご活用いただければ幸いです。
 
 - スタートアップ組織における SRE チームの立ち上げ
   - チーム内コミュニケーションラインの整備
@@ -79,7 +80,7 @@ SRE のプラクティスに関する深い理解があり、スタートアッ�
 
 ## 業務委託内容
 
-時給ベースでの稼働となるため、基本的なスタンスとしては "事前のインプットがそこまでなくともバリューを出せる領域" つまり今までやったこと (=Kubernetes) に近しいところでまずはお手伝いができればと考えています。その上で新しい技術に触れる機会をいただいた際には、積極的に挑戦したいと考えています。特に興味がある技術は以下の通りです。
+時給ベースでの稼働となるため、基本的なスタンスとしては "事前のインプットがそこまでなくともバリューを出せる領域" つまり今までやったこと (特に Kubernetes) に近しいところでまずはお手伝いができればと考えています。その上で新しい技術に触れる機会をいただいた際には、積極的に挑戦したいと考えています。特に興味がある技術は以下の通りです。
 
 - Backstage
 - Nx
