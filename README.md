@@ -28,5 +28,3 @@ Here are some ideas to get you started:
   - [Blog](https://blog.tapih.dev)
   - [LinkedIn](https://jp.linkedin.com/in/hiroshi-muraoka-a4357770/en-us)
   - [Kaggle](https://www.kaggle.com/pseprop)
-  - [Portfolio(inactive)](https://portfolio.tapih.dev)
-
