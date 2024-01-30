@@ -84,9 +84,7 @@ SRE のプラクティスに関する深い理解があり、スタートアッ�
 
 - Backstage
 - Nx
-- Bazel
 - Istio
-- Cloud Run
 - Arroy DB
 - Meilisearch
 - MLOps 全般
